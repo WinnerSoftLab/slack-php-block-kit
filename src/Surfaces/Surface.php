@@ -10,7 +10,7 @@ use Jeremeamia\Slack\BlockKit\Blocks\{
     Context,
     Divider,
     Image,
-    Section,
+    Section
 };
 use Jeremeamia\Slack\BlockKit\Blocks\Virtual\{VirtualBlock, TwoColumnTable};
 use Jeremeamia\Slack\BlockKit\{Exception, Element, Type};

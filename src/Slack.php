@@ -8,7 +8,7 @@ use Jeremeamia\Slack\BlockKit\Surfaces\{
     AppHome,
     Message,
     Modal,
-    WorkflowStep,
+    WorkflowStep
 };
 use Jeremeamia\Slack\BlockKit\Renderers\RendererFactory;
 
